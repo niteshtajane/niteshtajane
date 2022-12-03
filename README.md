@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @niteshtajane
-- 👀 I’m interested in DevOps Culture and cloud native technologies 
+- 👀 I’m interested in DevOps, Container Orchestration  and cloud native technologies 
 - 🌱 I’m currently learning DevOps lifecycle 
 - 💞️ I’m looking to collaborate on any kind of DevOps work
 - 📫 How to reach me via email : ntajane143@gmail.com
