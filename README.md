@@ -1,6 +1,5 @@
 # 💫 Nitesh Tajane 💫 
-Hello! My name is Nitesh Tajane and I am a DevOps⚙️ enthusiast. <br>I have a keen interest in cloud computing, containerization and automation.<br>I am currently learning and experimenting with various DevOps tools and methodologies, with the goal of improving the software development and deployment process🤖.
-
+Hello! My name is Nitesh Tajane and I am a DevOps⚙️ enthusiast.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niteshtajane/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@iamnitesh) 
