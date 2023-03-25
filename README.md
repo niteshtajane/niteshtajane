@@ -1,5 +1,5 @@
 # 💫 Nitesh Tajane 💫 
-Hello! My name is Nitesh Tajane and I am a DevOps⚙️ enthusiast.
+Hello! My name is Nitesh Tajane and I am a DevOps Enthusiast⚙️⚙️.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niteshtajane/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@iamnitesh) 
